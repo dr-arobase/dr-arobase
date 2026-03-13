@@ -20,13 +20,19 @@
 
 <!-- Live example (peut ne pas fonctionner sur GitHub) -->
 <p align="center" width="100%">
-  <video src="/assets/videos/ssstik.io_@shinigami105_1773390088985.mp4" width="80%" controls></video>
+  <a href="glitch-site/videos.html">
+    <img src="assets/glitch-banner.svg" alt="Voir les vidéos" width="80%" />
+  </a>
+  <p style="font-size:0.9rem;color:#94a3b8;margin-top:6px">Cliquer la vignette pour ouvrir la page de lecture (les vidéos ne sont pas lues dans le README).</p>
 </p>
 
 <!-- Code snippet shown as example -->
 ```html
+<!-- Recommandé pour le README : afficher une vignette cliquable vers la page de lecture -->
 <p align="center" width="100%">
-  <video src="assets/videos/ssstik.io_@shinigami105_1773390088985.mp4" width="80%" controls></video>
+  <a href="glitch-site/videos.html">
+    <img src="assets/glitch-banner.svg" width="80%" alt="Voir les vidéos" />
+  </a>
 </p>
 ```
 

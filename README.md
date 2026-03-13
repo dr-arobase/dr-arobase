@@ -20,19 +20,13 @@
 
 <!-- Live example (peut ne pas fonctionner sur GitHub) -->
 <p align="center" width="100%">
-  <a href="glitch-site/videos.html">
-    <img src="assets/glitch-banner.svg" alt="Voir les vidéos" width="80%" />
-  </a>
-  <p style="font-size:0.9rem;color:#94a3b8;margin-top:6px">Cliquer la vignette pour ouvrir la page de lecture (les vidéos ne sont pas lues dans le README).</p>
+  <video src="https://github.com/user-attachments/assets/563d36e5-1c92-49e6-aa88-c873a20ddf1d" width="80%" controls></video>
 </p>
 
 <!-- Code snippet shown as example -->
 ```html
-<!-- Recommandé pour le README : afficher une vignette cliquable vers la page de lecture -->
 <p align="center" width="100%">
-  <a href="glitch-site/videos.html">
-    <img src="assets/glitch-banner.svg" width="80%" alt="Voir les vidéos" />
-  </a>
+  <video src="https://github.com/user-attachments/assets/563d36e5-1c92-49e6-aa88-c873a20ddf1d" width="80%" controls></video>
 </p>
 ```
 
@@ -42,30 +36,6 @@
   - [assets/videos/ssstik.io_@eliaxsall_1773389782872.mp4](assets/videos/ssstik.io_@eliaxsall_1773389782872.mp4)
   - [assets/videos/ssstik.io_@arielnebocrimson_1773390068986.mp4](assets/videos/ssstik.io_@arielnebocrimson_1773390068986.mp4)
   - [assets/videos/REMAKE Ahhh TikTok.mp4](assets/videos/REMAKE%20Ahhh%20TikTok.mp4)
-
-</div>
-
-
-<!-- ══════════════════ CONTACT ══════════════════ -->
-
-## 🔊 Sons
-
-<div align="center">
-
-Je n'ai trouvé aucun fichier audio dans le dépôt. Tu peux :
-
-- Fournir des fichiers audio (MP3/WAV/OGG) que je placerai dans `assets/audio/`.
-- Ou j'extrais les pistes audio depuis les MP4 existants en local si tu as `ffmpeg` installé. Exemple de commande (PowerShell / CMD) :
-
-```powershell
-# extrait MP3 pour chaque MP4 (exécuter depuis la racine du repo)
-ffmpeg -i assets/videos/ssstik.io_@shinigami105_1773390088985.mp4 -vn -acodec libmp3lame -q:a 2 assets/audio/ssstik.io_@shinigami105_1773390088985.mp3
-ffmpeg -i assets/videos/ssstik.io_@eliaxsall_1773389782872.mp4 -vn -acodec libmp3lame -q:a 2 assets/audio/ssstik.io_@eliaxsall_1773389782872.mp3
-ffmpeg -i assets/videos/ssstik.io_@arielnebocrimson_1773390068986.mp4 -vn -acodec libmp3lame -q:a 2 assets/audio/ssstik.io_@arielnebocrimson_1773390068986.mp3
-ffmpeg -i "assets/videos/REMAKE Ahhh TikTok.mp4" -vn -acodec libmp3lame -q:a 2 "assets/audio/REMAKE Ahhh TikTok.mp3"
-```
-
-Après extraction, les lecteurs audio sur `glitch-site/videos.html` liront les MP3. Si tu veux, je peux exécuter ces commandes ici (si `ffmpeg` est disponible) ou te guider pour les lancer localement.
 
 </div>
 

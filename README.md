@@ -22,9 +22,6 @@
 <p align="center" width="100%">
   <video src="/assets/videos/ssstik.io_@shinigami105_1773390088985.mp4" width="80%" controls></video>
 </p>
-<p align="center" width="100%">
-  <video src="/assets/videos/ssstik.io_@eliaxsall_1773389782872.mp4" width="80%" controls></video>
-</p>
 
 <!-- Code snippet shown as example -->
 ```html

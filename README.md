@@ -246,6 +246,32 @@
 
 ---
 
+## 🎬 Vidéos
+
+<div align="center">
+
+<p>Voici quelques vidéos présentes dans le dossier <strong>assets/</strong> — cliquez pour les ouvrir ou lisez-les directement ci-dessous.</p>
+
+<p>
+  <video controls width="640" src="assets/ssstik.io_@shinigami105_1773390088985.mp4">Votre navigateur ne supporte pas la balise vidéo.</video>
+</p>
+
+<p>
+  <video controls width="640" src="assets/ssstik.io_@eliaxsall_1773389782872.mp4">Votre navigateur ne supporte pas la balise vidéo.</video>
+</p>
+
+<p>
+  <video controls width="640" src="assets/ssstik.io_@arielnebocrimson_1773390068986.mp4">Votre navigateur ne supporte pas la balise vidéo.</video>
+</p>
+
+<p>
+  <video controls width="640" src="assets/REMAKE Ahhh TikTok.mp4">Votre navigateur ne supporte pas la balise vidéo.</video>
+</p>
+
+</div>
+
+---
+
 <!-- ══════════════════ CONTACT ══════════════════ -->
 
 ## 🌐 Let's Team Up ! Me retrouver

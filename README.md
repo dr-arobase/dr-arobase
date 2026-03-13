@@ -246,29 +246,18 @@
 
 ---
 
-## 🎬 Vidéos
+## 🎬 Vidéos (lecture)
 
-<div align="center">
+> Note : GitHub n'autorise pas l'affichage fiable des balises `<video>` dans les README. Pour visualiser les MP4, ouvre la page de démo suivante ou les fichiers directement.
 
-<p>Voici quelques vidéos présentes dans le dossier <strong>assets/</strong> — cliquez pour les ouvrir ou lisez-les directement ci-dessous.</p>
+- Page de lecture : [glitch-site/videos.html](glitch-site/videos.html)
+- Fichiers (liens) :
+  - [assets/ssstik.io_@shinigami105_1773390088985.mp4](assets/ssstik.io_@shinigami105_1773390088985.mp4)
+  - [assets/ssstik.io_@eliaxsall_1773389782872.mp4](assets/ssstik.io_@eliaxsall_1773389782872.mp4)
+  - [assets/ssstik.io_@arielnebocrimson_1773390068986.mp4](assets/ssstik.io_@arielnebocrimson_1773390068986.mp4)
+  - [assets/REMAKE Ahhh TikTok.mp4](assets/REMAKE%20Ahhh%20TikTok.mp4)
 
-<p>
-  <video controls width="640" src="assets/ssstik.io_@shinigami105_1773390088985.mp4">Votre navigateur ne supporte pas la balise vidéo.</video>
-</p>
-
-<p>
-  <video controls width="640" src="assets/ssstik.io_@eliaxsall_1773389782872.mp4">Votre navigateur ne supporte pas la balise vidéo.</video>
-</p>
-
-<p>
-  <video controls width="640" src="assets/ssstik.io_@arielnebocrimson_1773390068986.mp4">Votre navigateur ne supporte pas la balise vidéo.</video>
-</p>
-
-<p>
-  <video controls width="640" src="assets/REMAKE Ahhh TikTok.mp4">Votre navigateur ne supporte pas la balise vidéo.</video>
-</p>
-
-</div>
+Pour visualiser localement : ouvre `glitch-site/videos.html` dans ton navigateur ou héberge le dossier `glitch-site/` (Glitch / GitHub Pages).
 
 ---
 

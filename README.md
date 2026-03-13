@@ -10,6 +10,11 @@
 
 <br/>
 
+<!-- Glitch heading (embedded SVG image) -->
+<p align="center">
+  <img src="assets/glitch-text.svg" alt="@dr.arobase glitch" width="780"/>
+</p>
+
 <!-- Badges dynamiques -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=dr-arobase&label=👁️+Vues&color=0e75b6&style=for-the-badge" />

@@ -1,33 +1,24 @@
-<table width="100%"><tr>
-  <td width="360" valign="top">
-    <img src="assets/avatar.svg" width="320" alt="avatar" />
-    
-    <p>
-      <strong style="font-size:18px">Dr. Arobase</strong><br/>
-      Développeur Full Stack • Montréal 🍁<br/>
-    </p>
+<div align="center">
 
-    <p>
-      <img src="https://img.shields.io/badge/•%20Repos-15-informational?style=flat-square&logo=github" />
-      <img src="https://img.shields.io/badge/•%20Stars-10-yellow?style=flat-square&logo=star" />
-    </p>
+<!-- ══════════════════ HEADER ══════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Dr.%20Arobase&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=⚡%20Code%20%7C%20🎯%20Créativité%20%7C%20🚀%20Innovation&descAlignY=60&descSize=22"/>
 
-  </td>
-  <td valign="top">
-    <img src="assets/banner.svg" width="100%" alt="banner" />
+<!-- Typing animation -->
+<a href="https://github.com/dr-arobase">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Bienvenue+sur+mon+profil+GitHub!;💻+Développeur+Full+Stack+passionné;🎮+Gamer+%7C+🎵+Mélomane+%7C+📚+Apprenant;🔥+Toujours+prêt+pour+un+nouveau+défi!;✨+Le+code+est+mon+superpouvoir" alt="Typing SVG" />
+</a>
 
-    <p align="left">
-      <a href="https://github.com/dr-arobase"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&width=700&lines=👋+Bienvenue+sur+mon+profil+GitHub!;💻+Développeur+Full+Stack;🎯+Créatif+et+passionné;🚀+Toujours+en+train+d%27apprendre" alt="Typing SVG"/></a>
-    </p>
+<br/>
 
-    <p align="left">
-      <img src="https://komarev.com/ghpvc/?username=dr-arobase&label=Vues+du+profil&color=0e75b6&style=flat-square" />
-      <img src="https://img.shields.io/badge/Followers-5-2ea44f?style=flat-square&logo=github" />
-      <img src="https://img.shields.io/badge/Contact-Email-D14836?style=flat-square&logo=gmail" />
-    </p>
+<!-- Badges dynamiques -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=dr-arobase&label=👁️+Vues&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/dr-arobase?label=👥+Abonnés&style=for-the-badge&color=238636" />
+  <img src="https://img.shields.io/badge/Status-💡+Disponible-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Based+in-🍁+Montréal-blue?style=for-the-badge" />
+</p>
 
-  </td>
-</tr></table>
+</div>
 
 ---
 

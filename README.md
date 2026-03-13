@@ -1,4 +1,4 @@
-<div align="center">
+<!-- initial misplaced Videos block removed; Videos section will appear below before Contact -->
 
 <!-- ══════════════════ HEADER ══════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Dr.%20Arobase&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=⚡%20Code%20%7C%20🎯%20Créativité%20%7C%20🚀%20Innovation&descAlignY=60&descSize=22"/>
@@ -11,11 +11,38 @@
 <br/>
 
 <!-- Glitch heading (embedded SVG image) -->
-<p align="center">
-  <img src="assets/glitch-text.svg" alt="@dr.arobase glitch" width="780"/>
+
+## 🎬 Vidéos (lecture)
+
+<div align="center">
+
+<p>Pour visualiser les vidéos, ouvre la <strong>page de lecture</strong> ou utilise le snippet HTML ci-dessous. Note : GitHub peut bloquer la lecture directe dans les README — préfère ouvrir la page <code>glitch-site/videos.html</code> ou héberger sur GitHub Pages / Glitch.</p>
+
+<!-- Live example (peut ne pas fonctionner sur GitHub) -->
+<p align="center" width="100%">
+  <video src="https://github.com/user-attachments/assets/563d36e5-1c92-49e6-aa88-c873a20ddf1d" width="80%" controls></video>
 </p>
 
-<!-- Badges dynamiques -->
+<!-- Code snippet shown as example -->
+```html
+<p align="center" width="100%">
+  <video src="https://github.com/user-attachments/assets/563d36e5-1c92-49e6-aa88-c873a20ddf1d" width="80%" controls></video>
+</p>
+```
+
+- Page de lecture : [glitch-site/videos.html](glitch-site/videos.html)
+- Fichiers (liens) :
+  - [assets/videos/ssstik.io_@shinigami105_1773390088985.mp4](assets/videos/ssstik.io_@shinigami105_1773390088985.mp4)
+  - [assets/videos/ssstik.io_@eliaxsall_1773389782872.mp4](assets/videos/ssstik.io_@eliaxsall_1773389782872.mp4)
+  - [assets/videos/ssstik.io_@arielnebocrimson_1773390068986.mp4](assets/videos/ssstik.io_@arielnebocrimson_1773390068986.mp4)
+  - [assets/videos/REMAKE Ahhh TikTok.mp4](assets/videos/REMAKE%20Ahhh%20TikTok.mp4)
+
+</div>
+
+
+<!-- ══════════════════ CONTACT ══════════════════ -->
+
+## 🌐 Let's Team Up ! Me retrouver
 <p>
   <img src="https://komarev.com/ghpvc/?username=dr-arobase&label=👁️+Vues&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/dr-arobase?label=👥+Abonnés&style=for-the-badge&color=238636" />
@@ -246,25 +273,7 @@
 
 ---
 
-## 🎬 Vidéos (lecture)
 
-> Note : GitHub n'autorise pas l'affichage fiable des balises `<video>` dans les README. Pour visualiser les MP4, ouvre la page de démo suivante ou les fichiers directement.
-
-- Page de lecture : [glitch-site/videos.html](glitch-site/videos.html)
-- Fichiers (liens) :
-  - [assets/ssstik.io_@shinigami105_1773390088985.mp4](assets/ssstik.io_@shinigami105_1773390088985.mp4)
-  - [assets/ssstik.io_@eliaxsall_1773389782872.mp4](assets/ssstik.io_@eliaxsall_1773389782872.mp4)
-  - [assets/ssstik.io_@arielnebocrimson_1773390068986.mp4](assets/ssstik.io_@arielnebocrimson_1773390068986.mp4)
- - Page de lecture : [glitch-site/videos.html](glitch-site/videos.html)
- - Fichiers (liens) :
-  - [assets/videos/ssstik.io_@shinigami105_1773390088985.mp4](assets/videos/ssstik.io_@shinigami105_1773390088985.mp4)
-  - [assets/videos/ssstik.io_@eliaxsall_1773389782872.mp4](assets/videos/ssstik.io_@eliaxsall_1773389782872.mp4)
-  - [assets/videos/ssstik.io_@arielnebocrimson_1773390068986.mp4](assets/videos/ssstik.io_@arielnebocrimson_1773390068986.mp4)
-  - [assets/videos/REMAKE Ahhh TikTok.mp4](assets/videos/REMAKE%20Ahhh%20TikTok.mp4)
-
-Pour visualiser localement : ouvre `glitch-site/videos.html` dans ton navigateur ou héberge le dossier `glitch-site/` (Glitch / GitHub Pages).
-
----
 
 <!-- ══════════════════ CONTACT ══════════════════ -->
 

@@ -255,7 +255,12 @@
   - [assets/ssstik.io_@shinigami105_1773390088985.mp4](assets/ssstik.io_@shinigami105_1773390088985.mp4)
   - [assets/ssstik.io_@eliaxsall_1773389782872.mp4](assets/ssstik.io_@eliaxsall_1773389782872.mp4)
   - [assets/ssstik.io_@arielnebocrimson_1773390068986.mp4](assets/ssstik.io_@arielnebocrimson_1773390068986.mp4)
-  - [assets/REMAKE Ahhh TikTok.mp4](assets/REMAKE%20Ahhh%20TikTok.mp4)
+ - Page de lecture : [glitch-site/videos.html](glitch-site/videos.html)
+ - Fichiers (liens) :
+  - [assets/videos/ssstik.io_@shinigami105_1773390088985.mp4](assets/videos/ssstik.io_@shinigami105_1773390088985.mp4)
+  - [assets/videos/ssstik.io_@eliaxsall_1773389782872.mp4](assets/videos/ssstik.io_@eliaxsall_1773389782872.mp4)
+  - [assets/videos/ssstik.io_@arielnebocrimson_1773390068986.mp4](assets/videos/ssstik.io_@arielnebocrimson_1773390068986.mp4)
+  - [assets/videos/REMAKE Ahhh TikTok.mp4](assets/videos/REMAKE%20Ahhh%20TikTok.mp4)
 
 Pour visualiser localement : ouvre `glitch-site/videos.html` dans ton navigateur ou héberge le dossier `glitch-site/` (Glitch / GitHub Pages).
 

@@ -20,13 +20,14 @@
 
 <!-- Live example (peut ne pas fonctionner sur GitHub) -->
 <p align="center" width="100%">
-  <video src="https://github.com/user-attachments/assets/563d36e5-1c92-49e6-aa88-c873a20ddf1d" width="80%" controls></video>
+  <video src="https://raw.githubusercontent.com/dr-arobase/dr-arobase/main/assets/videos/ssstik.io_@shinigami105_1773390088985.mp4" width="80%" controls></video>
+  <p style="font-size:0.9rem;color:#94a3b8;margin-top:6px">Test : raw.githubusercontent.com URL (peut ou pas fonctionner selon headers).</p>
 </p>
 
 <!-- Code snippet shown as example -->
 ```html
 <p align="center" width="100%">
-  <video src="https://github.com/user-attachments/assets/563d36e5-1c92-49e6-aa88-c873a20ddf1d" width="80%" controls></video>
+  <video src="https://raw.githubusercontent.com/dr-arobase/dr-arobase/main/assets/videos/ssstik.io_@shinigami105_1773390088985.mp4" width="80%" controls></video>
 </p>
 ```
 

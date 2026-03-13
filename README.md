@@ -20,13 +20,16 @@
 
 <!-- Live example (peut ne pas fonctionner sur GitHub) -->
 <p align="center" width="100%">
-  <video src="https://github.com/user-attachments/assets/563d36e5-1c92-49e6-aa88-c873a20ddf1d" width="80%" controls></video>
+  <video src="assets/videos/ssstik.io_@shinigami105_1773390088985.mp4" width="80%" controls></video>
+</p>
+<p align="center" width="100%">
+  <video src="assets/videos/ssstik.io_@eliaxsall_1773389782872.mp4" width="80%" controls></video>
 </p>
 
 <!-- Code snippet shown as example -->
 ```html
 <p align="center" width="100%">
-  <video src="https://github.com/user-attachments/assets/563d36e5-1c92-49e6-aa88-c873a20ddf1d" width="80%" controls></video>
+  <video src="assets/videos/ssstik.io_@shinigami105_1773390088985.mp4" width="80%" controls></video>
 </p>
 ```
 

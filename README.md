@@ -4,9 +4,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Dr.%20Arobase&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=⚡%20Code%20%7C%20🎯%20Créativité%20%7C%20🚀%20Innovation&descAlignY=60&descSize=22"/>
 
 <!-- Typing animation -->
-<a href="https://github.com/dr-arobase">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Bienvenue+sur+mon+profil+GitHub!;💻+Développeur+Full+Stack+passionné;🎮+Gamer+%7C+🎵+Mélomane+%7C+📚+Apprenant;🔥+Toujours+prêt+pour+un+nouveau+défi!;✨+Le+code+est+mon+superpouvoir" alt="Typing SVG" />
-</a>
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Bienvenue+sur+mon+profil+GitHub!;💻+Développeur+Full+Stack+passionné;🎮+Gamer+%7C+🎵+Mélomane+%7C+📚+Apprenant;🔥+Toujours+prêt+pour+un+nouveau+défi!;✨+Le+code+est+mon+superpouvoir)](https://github.com/dr-arobase)
 
 <br/>
 

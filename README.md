@@ -10,7 +10,10 @@
 <br/>
 
 <!-- Glitch heading (embedded SVG image) -->
-
+<!-- Glitch heading (embedded SVG image) -->
+<p align="center">
+  <img src="assets/glitch-text.svg" alt="Glitch text - Dr. Arobase" width="80%" />
+</p>
 ## 🎬 Vidéos (lecture)
 
 <div align="center">
@@ -67,7 +70,7 @@
 │  🎓 École    : Collège de Maisonneuve    │
 │  📍 Ville    : Montréal, Québec 🍁       │
 │  💼 Rôle     : Développeur Full Stack    │
-│  🌐 Langues  : Français 🇫🇷  Anglais 🇬🇧 │
+│  🌐 Langues  : Français 🇫🇷  Anglais 🇬🇧    │
 │  ☕ Fuel     : Café ++ & Musique lo-fi   │
 │  🎯 Objectif : Build. Launch. Repeat.    │
 │  🤝 Open à   : Collabs & Projets 🔥      │

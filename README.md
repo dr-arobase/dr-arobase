@@ -64,13 +64,13 @@ src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColo
 <table border="0">
   <tr>
     <td align="center">
-      <img src="assets/videos/kobeni_dance.gif" width="200" alt="Danse" />
+      <video src="assets/videos/kobeni_dance.mp4" width="200" alt="Danse" controls />
     </td>
     <td align="center">
-      <img src="assets/videos/kobeni_acceuil.gif" width="200" alt="Accueil" />
+      <video src="assets/videos/kobeni_acceuil.mp4" width="200" alt="Accueil" controls />
     </td>
     <td align="center">
-      <img src="assets/videos/kobeni_pochita.gif" width="200" alt="Pochita" />
+      <video src="assets/videos/kobeni_pochita.mp4" width="200" alt="Pochita" controls />
     </td>
   </tr>
 </table>
@@ -95,29 +95,6 @@ src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColo
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dr-arobase&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area_color=1E3A5F" width="100%" />
-
-</div>
-
----
-
-##  Ma Mission & Objectifs
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                    ULTIMATE QUEST                        ║
-╠══════════════════════════════════════════════════════════╣
-║  Terminer mes études brillamment                         ║
-║  Contribuer à des projets open-source impactants         ║
-║  Maîtriser l'IA & le Machine Learning                    ║
-║  Lancer mon propre produit SaaS                          ║
-║  Décrocher un poste de rêve en tech                      ║
-╠══════════════════════════════════════════════════════════╣
-║  Grinding Now : Projets full-stack + Certifications      ║
-║  Side Quests  : Algorithmes · LeetCode · Open Source     ║
-╚══════════════════════════════════════════════════════════╝
-```
 
 </div>
 

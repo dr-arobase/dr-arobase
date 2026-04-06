@@ -64,16 +64,13 @@ src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColo
 <table border="0">
   <tr>
     <td align="center">
-      <img src="assets/videos/kobeni_dance.gif" width="200" alt="Danse"/><br />
-      <sub><a href="assets/videos/kobeni_dance.mp4">Voir MP4</a></sub>
+      <img src="assets/videos/kobeni_dance.gif" width="200" alt="Danse" />
     </td>
     <td align="center">
-      <img src="assets/videos/kobeni_acceuil.gif" width="200" alt="Accueil"/><br />
-      <sub><a href="assets/videos/kobeni_acceuil.mp4">Voir MP4</a></sub>
+      <img src="assets/videos/kobeni_acceuil.gif" width="200" alt="Accueil" />
     </td>
     <td align="center">
-      <img src="assets/videos/kobeni_pochita.gif" width="200" alt="Pochita"/><br />
-      <sub> <a href="assets/videos/kobeni_pochita.mp4">Voir MP4</a></sub>
+      <img src="assets/videos/kobeni_pochita.gif" width="200" alt="Pochita" />
     </td>
   </tr>
 </table>

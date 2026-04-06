@@ -62,9 +62,9 @@ src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColo
 ##  vidéos
 <table border="0">
   <tr>
-    <td><video src="assets/videos/kobeni_dance.mp4" width="200" controls></video></td>
-    <td><video src="assets/videos/kobeni_acceuil.mp4" width="200" controls></video></td>
-    <td><video src="assets/videos/kobeni_pochita.mp4" width="200" controls></video></td>
+    <td><video src="https://raw.githubusercontent.com/dr-arobase/dr-arobase/main/assets/videos/kobeni_dance.mp4" width="200" controls></video></td>
+    <td><video src="https://raw.githubusercontent.com/dr-arobase/dr-arobase/main/assets/videos/kobeni_acceuil.mp4" width="200" controls></video></td>
+    <td><video src="https://raw.githubusercontent.com/dr-arobase/dr-arobase/main/assets/videos/kobeni_pochita.mp4" width="200" controls></video></td>
   </tr>
 </table>
 

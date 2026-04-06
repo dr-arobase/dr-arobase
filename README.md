@@ -5,24 +5,23 @@
 <img width="100%" 
 src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Dr.%20Arobase&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc"/>
 
-
-
 <br/>
 
 <!-- ══════════════════ ABOUT ME ══════════════════ -->
 
 ## <img src="https://img.icons8.com/ios/18/000000/user.png" alt="user"/> À propos de moi
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- Pour activer l'animation ici, place un GIF animé nommé `hero.gif` dans le dossier `assets/` -->
+<img align="right" alt="Hero animation" width="380" src="assets/hero.gif" />
 
 ```yaml
 ┌──────────────────────────────────────────┐
 │          Dr. Arobase — Profil            │
 ├──────────────────────────────────────────┤
 │  École    : Collège de Maisonneuve       │
-│  Ville    : Montréal, Québec <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@latest/png100px/ca.png" width="14" alt="CA"/>          │
+│  Ville    : Montréal, Québec             │
 │  Rôle     : Développeur Full Stack       │
-│  Langues  : <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@latest/png100px/fr.png" width="14" alt="FR"/> Français  <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@latest/png100px/gb.png" width="14" alt="GB"/> Anglais       │
+│  Langues  : Français et Anglais          │
 │  Open à   : Collabs & Projets            │
 └──────────────────────────────────────────┘
 ```
@@ -59,6 +58,16 @@ src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColo
 </div>
 
 ---
+
+##  vidéos
+<table border="0">
+  <tr>
+    <td><video src="assets/videos/kobeni_dance.mp4" width="200" controls></video></td>
+    <td><video src="assets/videos/kobeni_acceuil.mp4" width="200" controls></video></td>
+    <td><video src="assets/videos/kobeni_pochita.mp4" width="200" controls></video></td>
+  </tr>
+</table>
+
 
 
 <!-- ══════════════════ GITHUB STATS ══════════════════ -->

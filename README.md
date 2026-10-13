@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/Langues-FR%20·%20EN-58A6FF?style=flat-square" />
 <img src="https://img.shields.io/badge/Ouvert%20aux-stages%20%26%20collaborations-238636?style=flat-square" />
 <img src="https://img.shields.io/github/followers/dr-arobase?label=Abonnés&style=flat-square&color=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=dr-arobase&style=flat-square&color=58A6FF&label=Vues+du+profil" />
 
 </div>
 
@@ -43,6 +44,28 @@
 
 ---
 
+## Compétences
+
+| Compétence | Où je l'ai mise en pratique |
+|:--|:--|
+| **API REST** avec Express, documentées avec Swagger | [CrimeTracker](https://github.com/dr-arobase/projet-DA_3), [Clone Instagram](https://github.com/dr-arobase/projet-DA_1-mondat-4) |
+| **Authentification sécurisée** : JWT, hachage bcrypt, 2FA par code TOTP | [Authentification 2FA](https://github.com/dr-arobase/authentification-avec-deux-facteur), [CrimeTracker](https://github.com/dr-arobase/projet-DA_3) |
+| **Temps réel** avec WebSockets (Socket.io) | [CrimeTracker](https://github.com/dr-arobase/projet-DA_3) |
+| **Bases de données SQL** : schéma, migrations, données de test | [CrimeTracker](https://github.com/dr-arobase/projet-DA_3) (PostgreSQL), [BES Loan](https://github.com/dr-arobase/tp-web) (SQLite, Knex) |
+| **Conteneurisation et déploiement** : Docker Compose, nginx, Render | [CrimeTracker](https://github.com/dr-arobase/projet-DA_3), [Clone Instagram](https://github.com/dr-arobase/projet-DA_1-mondat-4) |
+| **Tests et intégration continue** : Jest, Supertest, GitHub Actions | [CrimeTracker](https://github.com/dr-arobase/projet-DA_3) |
+| **Programmation orientée objet et patrons de conception** | [PyForum](https://github.com/dr-arobase/PyForum_Travail-Pratique-2) (Python), [TP Java](https://github.com/dr-arobase/TP-JAVA-2) (patron Stratégie) |
+| **Travail en équipe** : Git, revues de code, guide de contribution | [CrimeTracker](https://github.com/dr-arobase/projet-DA_3) (équipe de 4) |
+
+---
+
+## Formation
+
+**Collège de Maisonneuve** — Montréal, QC
+Techniques de l'informatique (DEC) · *en cours*
+
+---
+
 ## Projets
 
 | Projet | Description | Technologies |
@@ -65,6 +88,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr-arobase&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr-arobase&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" width="600" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dr-arobase&theme=tokyonight" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dr-arobase/dr-arobase/output/github-contribution-grid-snake-dark.svg" />

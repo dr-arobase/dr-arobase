@@ -6,58 +6,63 @@
   <title>Vidéos — Dr. Arobase</title>
   <link rel="stylesheet" href="styles.css" />
   <style>
-    body{font-family:system-ui,Segoe UI,Roboto,Arial;background:#0D1117;color:#C9D1D9;padding:24px}
-    .wrap{max-width:900px;margin:0 auto}
-    video{display:block;margin:18px 0;border:1px solid rgba(255,255,255,0.06)}
-    h1{color:#58A6FF}
+    .wrap{max-width:1100px;margin:0 auto;padding:32px 16px}
+    .top{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}
+    .top a{color:var(--accent);text-decoration:none;font-weight:600}
+    .glitch{font-size:2.4rem}
+    .lead{color:var(--muted);margin:8px 0 28px}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px}
+    .card{background:var(--panel);border:1px solid rgba(88,166,255,0.15);border-radius:14px;overflow:hidden;transition:transform .2s,border-color .2s,box-shadow .2s}
+    .card:hover{transform:translateY(-4px);border-color:var(--accent);box-shadow:0 10px 30px rgba(88,166,255,0.15)}
+    .card video{display:block;width:100%;aspect-ratio:9/16;object-fit:cover;background:#000}
+    .card h2{margin:0;padding:12px 16px;font-size:1rem;display:flex;justify-content:space-between;align-items:center}
+    .card h2 a{color:var(--muted);font-size:.8rem;font-weight:400;text-decoration:none}
+    .card h2 a:hover{color:var(--accent)}
   </style>
 </head>
 <body>
   <div class="wrap">
-    <h1>Vidéos</h1>
-    <p>Les vidéos du dossier <strong>assets/</strong>. Ouvre cette page localement ou héberge-la pour lire les MP4 directement.</p>
+    <div class="top">
+      <h1 class="glitch" data-glitch="Vidéos">Vidéos</h1>
+      <a href="index.html">← Retour au site</a>
+    </div>
+    <p class="lead">Une vidéo à la fois : lancer une vidéo met les autres en pause.</p>
 
-    <section>
-      <h2>ssstik.io_@shinigami105_1773390088985.mp4</h2>
-      <p align="center" width="100%">
-        <video controls width="80%" src="../assets/videos/ssstik.io_@shinigami105_1773390088985.mp4">Votre navigateur ne supporte pas la balise vidéo.</video>
-      </p>
-      <p align="center" style="margin-top:6px">
-        <audio controls src="../assets/audio/ssstik.io_@shinigami105_1773390088985.mp3">Votre navigateur ne supporte pas la balise audio.</audio>
-      </p>
-    </section>
+    <div class="grid">
+      <article class="card">
+        <video controls playsinline preload="metadata" poster="../assets/previews/kobeni_dance.jpg">
+          <source src="../assets/videos/kobeni_dance.mp4" type="video/mp4" />
+          Votre navigateur ne supporte pas la balise vidéo.
+        </video>
+        <h2>Danse <a href="../assets/videos/kobeni_dance.mp4" download>Télécharger</a></h2>
+      </article>
 
-    <section>
-      <h2>ssstik.io_@eliaxsall_1773389782872.mp4</h2>
-      <p align="center" width="100%">
-        <video controls width="80%" src="../assets/videos/ssstik.io_@eliaxsall_1773389782872.mp4">Votre navigateur ne supporte pas la balise vidéo.</video>
-      </p>
-      <p align="center" style="margin-top:6px">
-        <audio controls src="../assets/audio/ssstik.io_@eliaxsall_1773389782872.mp3">Votre navigateur ne supporte pas la balise audio.</audio>
-      </p>
-    </section>
+      <article class="card">
+        <video controls playsinline preload="metadata" poster="../assets/previews/kobeni_acceuil.jpg">
+          <source src="../assets/videos/kobeni_acceuil.mp4" type="video/mp4" />
+          Votre navigateur ne supporte pas la balise vidéo.
+        </video>
+        <h2>Accueil <a href="../assets/videos/kobeni_acceuil.mp4" download>Télécharger</a></h2>
+      </article>
 
-    <section>
-      <h2>ssstik.io_@arielnebocrimson_1773390068986.mp4</h2>
-      <p align="center" width="100%">
-        <video controls width="80%" src="../assets/videos/ssstik.io_@arielnebocrimson_1773390068986.mp4">Votre navigateur ne supporte pas la balise vidéo.</video>
-      </p>
-      <p align="center" style="margin-top:6px">
-        <audio controls src="../assets/audio/ssstik.io_@arielnebocrimson_1773390068986.mp3">Votre navigateur ne supporte pas la balise audio.</audio>
-      </p>
-    </section>
-
-    <section>
-      <h2>REMAKE Ahhh TikTok.mp4</h2>
-      <p align="center" width="100%">
-        <video controls width="80%" src="../assets/videos/REMAKE%20Ahhh%20TikTok.mp4">Votre navigateur ne supporte pas la balise vidéo.</video>
-      </p>
-      <p align="center" style="margin-top:6px">
-        <audio controls src="../assets/audio/REMAKE%20Ahhh%20TikTok.mp3">Votre navigateur ne supporte pas la balise audio.</audio>
-      </p>
-    </section>
-
-    <p>Retourner au <a href="index.html">site</a> ou au <a href="../README.md">README</a>.</p>
+      <article class="card">
+        <video controls playsinline preload="metadata" poster="../assets/previews/kobeni_pochita.jpg">
+          <source src="../assets/videos/kobeni_pochita.mp4" type="video/mp4" />
+          Votre navigateur ne supporte pas la balise vidéo.
+        </video>
+        <h2>Pochita <a href="../assets/videos/kobeni_pochita.mp4" download>Télécharger</a></h2>
+      </article>
+    </div>
   </div>
+
+  <footer class="foot">Made with ❤️ — Dr. Arobase</footer>
+
+  <script>
+    // Pause the other videos when one starts playing
+    const videos = document.querySelectorAll('video');
+    videos.forEach(v => v.addEventListener('play', () => {
+      videos.forEach(o => { if (o !== v) o.pause(); });
+    }));
+  </script>
 </body>
 </html>

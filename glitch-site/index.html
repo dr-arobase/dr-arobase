@@ -9,9 +9,9 @@
 <body>
   <header class="hero">
     <!-- embed SVG banner -->
-    <img src="/assets/glitch-banner.svg" alt="Glitch banner" class="banner" />
+    <img src="../assets/glitch-text.svg" alt="Dr. Arobase" class="banner" />
     <div class="avatar-wrap">
-      <img src="/assets/glitch-avatar.svg" alt="avatar" class="avatar" />
+      <img src="../assets/hero.gif" alt="avatar" class="avatar" />
 
       <div class="glitch-wrapper">
             <h1 class="glitch" data-glitch="@dr.arobase">@dr.arobase</h1>
@@ -19,14 +19,13 @@
 
       <p class="subtitle">Développeur · Full Stack · Montréal</p>
       
-      <!-- Featured video (click to play) -->
-      <div style="margin-top:12px;">
-        <p align="center" style="margin:0">
-          <a href="videos.html" style="color:inherit;text-decoration:none;display:inline-block">
-            <video controls width="80%" src="/assets/videos/ssstik.io_@shinigami105_1773390088985.mp4" poster="/assets/glitch-banner.svg">Votre navigateur ne supporte pas la balise vidéo.</video>
-          </a>
-        </p>
-        <p style="font-size:0.9rem;margin-top:6px;color:#94a3b8;text-align:center">Cliquer la vidéo pour ouvrir la page complète de lecture.</p>
+      <!-- Featured video -->
+      <div class="featured">
+        <video controls playsinline preload="metadata" poster="../assets/previews/kobeni_dance.jpg">
+          <source src="../assets/videos/kobeni_dance.mp4" type="video/mp4" />
+          Votre navigateur ne supporte pas la balise vidéo.
+        </video>
+        <a class="btn" href="videos.html">▶ Voir toutes les vidéos</a>
       </div>
     </div>
   </header>

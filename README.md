@@ -107,28 +107,17 @@
 
 ## 🎬 Vidéos
 
-<div align="center">
+### ▶ Danse
 
-<p><em>Clique sur un aperçu pour lancer la vidéo MP4 complète</em></p>
+https://github.com/user-attachments/assets/68d5345f-1d85-4d95-89f9-dc07dd2a7ddc
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="assets/videos/kobeni_dance.mp4"><img src="assets/previews/kobeni_dance.gif" height="300" alt="Kobeni — Danse" /></a>
-      <br/><b>▶ Danse</b>
-    </td>
-    <td align="center">
-      <a href="assets/videos/kobeni_acceuil.mp4"><img src="assets/previews/kobeni_acceuil.gif" height="300" alt="Kobeni — Accueil" /></a>
-      <br/><b>▶ Accueil</b>
-    </td>
-    <td align="center">
-      <a href="assets/videos/kobeni_pochita.mp4"><img src="assets/previews/kobeni_pochita.gif" height="300" alt="Kobeni — Pochita" /></a>
-      <br/><b>▶ Pochita</b>
-    </td>
-  </tr>
-</table>
+### ▶ Accueil
 
-</div>
+https://github.com/user-attachments/assets/e8bc6abe-95e8-4559-881d-f0b3243f3c47
+
+### ▶ Pochita
+
+https://github.com/user-attachments/assets/c2683349-06d9-4b9d-8867-d473737e77e2
 
 ---
 
